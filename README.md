@@ -1,4 +1,5 @@
 # BetterLinks
+![Uploading chak de pbhatte.jpg…]()
 
 ## Description
 BetterLinks is an Obsidian plugin designed to enhance your note-taking experience. It automatically detects links in a note and formats them with the titles of the pages or videos of those links. It also generates previews of the links, providing a quick snapshot of the linked content without leaving your note.
