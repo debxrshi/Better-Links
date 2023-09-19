@@ -1,9 +1,9 @@
 
-                                            # BetterLinks
 		
   
-                  ![logo](https://github.com/debxrshi/Better-Links/assets/40909973/fcc2c997-e37e-4b41-83f5-aaff514480a6)
+![logo](https://github.com/debxrshi/Better-Links/assets/40909973/fcc2c997-e37e-4b41-83f5-aaff514480a6)
 
+#                                                 BetterLinks
 		
 ## Description
 BetterLinks is an Obsidian plugin designed to enhance your note-taking experience. It automatically detects links in a note and formats them with the titles of the pages or videos of those links. It also generates previews of the links, providing a quick snapshot of the linked content without leaving your note.
