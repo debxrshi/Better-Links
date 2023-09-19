@@ -15,7 +15,7 @@ Link-Previews is an Obsidian plugin designed to enhance your note-taking experie
 4. Once installed, activate the plugin by toggling it in the **Community Plugins** tab.
 
 ## Usage
-After installation, the plugin will automatically start detecting and formatting links in your notes. To generate a preview of a link, hover over it.
+After installation, the plugin will automatically start detecting and formatting links in your notes. To generate a preview of a link, select it (or **CTRL + A** to select the entire note), and open the **Command Palate** and search for Link-Previewer. Select **Preview** or **Format Links**.
 
 ## Contributing
 Contributions are welcome! Please feel free to submit a pull request.
